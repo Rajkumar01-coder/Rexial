@@ -2,7 +2,7 @@
 
 # Rexial
 
-**An open-source real-time quiz platform — host a live quiz, share a code, watch the leaderboard move as people answer.**
+**An open-source real-time quiz platform — host a live quiz also with live media streaming, share a code, watch the leaderboard move as people answer.**
 
 [![CI](https://github.com/TheCodeHeist-Coder/Rexial/actions/workflows/ci.yml/badge.svg)](https://github.com/TheCodeHeist-Coder/Rexial/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
